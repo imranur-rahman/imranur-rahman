@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=irshimul.irshimul)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=imranur-rahman.imranur-rahman)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=irshimul&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=imranur-rahman&count_private=true&show_icons=true&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irshimul&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranur-rahman&layout=compact)
 
 - 📫 How to reach me:
 
