@@ -10,7 +10,9 @@ I am Imranur Rahman, a PhD student at North Carolina State University.
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=imranur-rahman.imranur-rahman)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=imranur-rahman&count_private=true&show_icons=true&hide=contribs)
+<!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=imranur-rahman&count_private=true&show_icons=true&hide=contribs) -->
+
+[![Imranur's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranur-rahman)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranur-rahman&layout=compact)
 
