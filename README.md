@@ -14,8 +14,8 @@ PhD student at North Carolina State University.
 
 ## GitHub Stats
 
-[![Imranur's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranur-rahman)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranur-rahman&layout=compact)
+[![GitHub Stars](https://img.shields.io/github/stars/imranur-rahman/imranur-rahman?style=for-the-badge)](https://github.com/imranur-rahman/imranur-rahman/stargazers)
+[![Most Used Language](https://img.shields.io/github/languages/top/imranur-rahman/imranur-rahman?style=for-the-badge)](https://github.com/imranur-rahman/imranur-rahman)
 
 ## Skills
 
